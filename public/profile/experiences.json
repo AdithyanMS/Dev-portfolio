@@ -1,0 +1,44 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "-",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed and deployed APIs for a Dating Assistant using OpenAI Assistants",
+                "Developed the entire backend of a learning platform using Express and MongoDB and deployed to Lightsail and SNS for authentication"
+            ],
+            "dateText": "06/2023 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Bzinga Technologies Private Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Helped in migration from AWS to Azure",
+                "Created an internal reporting system to support the data analytics team",
+                "Revamped a legacy service, which made it easier for the development team to add new features"
+            ],
+            "dateText": "06/2022 – 06/2023"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Bzinga Technologies Private Ltd",
+            "workType": "Trainee",
+            "workDescription": [
+                "Developed a product scheduling system",
+                "Displayed products which had a higher chance of bidding by customers"
+            ],
+            "dateText": "09/2021 – 06/2022"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Brand Answers",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked with Grafana and PostgreSQL to graphically represent the assets and expected outputs of various farmers for easy analysis"
+            ],
+            "dateText": "04/2021 – 07/2021"
+        }
+    ]
+}

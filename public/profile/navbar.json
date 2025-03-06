@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://drive.google.com/file/d/13WYKk71OuK5ek3sB9lDZLFPqS1PxXba_/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

@@ -1,0 +1,38 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/prompt-haven.png",
+            "title": "Prompt Haven",
+            "bodyText": "- A platform made for sharing and viewing prompts",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdithyanMS/Prompt-Haven"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://prompt-haven-chi.vercel.app/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Next",
+                "JavaScript"
+            ]
+        },
+        {
+            "title": "Redis Server Go",
+            "bodyText": "- A redis server build using go which accepts the basic commands",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AdithyanMS/Redis_mini"
+                }
+            ],
+            "tags" : [
+                "Go",
+                "RESP"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/adithyan-msa/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/AdithyanMS"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:developertraceroute@gmail.com"
+        }
+    ]
+}
